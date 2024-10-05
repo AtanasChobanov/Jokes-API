@@ -8,4 +8,4 @@ The idea of this project is to practise how an API is made. It provides standard
 2. CD to the cloned repository: `cd Jokes-API`
 3. Install all required node modules: `npm i`
 4. Run the server: `node index.js`
-5. Your server is listening on [http://localhost:3000/](http://localhost:3000/){:target="_blank"}.
+5. Your server is listening on [http://localhost:3000/](http://localhost:3000/).
